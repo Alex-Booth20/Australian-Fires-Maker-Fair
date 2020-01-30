@@ -1,8 +1,7 @@
 body {
   background-color: #a9a9a9;
 }
-.carousel-item {
-  	border:10px solid;
-      color: #ffffff;
-	box-sizing:border-box;
-  }
+.item{
+    background: #333;    
+    text-align: center;
+    height: 300px !important;
