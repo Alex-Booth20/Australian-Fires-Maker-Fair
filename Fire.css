@@ -1,6 +1,6 @@
 body {
   background-color: #a9a9a9;
 }
-.top-buffer { 
-  margin-top:20px; 
+.row { 
+margin: 20px 10px;
 }
