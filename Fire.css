@@ -25,3 +25,8 @@ p {
 .bg-secondary {
   background-color: #a9a9a9; 
 }
+
+div#n2-ss-15 .n2-ss-slide{
+	border:10px solid #ffffff;
+	box-sizing:border-box;
+}
