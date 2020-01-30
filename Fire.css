@@ -1,9 +1,14 @@
 p {
   background-color: #a9a9a9;
 }
+
 div#n2-ss-15 .n2-ss-slide{
 	outline: 10px solid #ffffff;
 }
 div#n2-ss-15 .n2-ss-slider-pane-single{
 	overflow-x: visible;
+}
+div#n2-ss-15 .n2-ss-slide{
+	border:10px solid #ffffff;
+	box-sizing:border-box;
 }
